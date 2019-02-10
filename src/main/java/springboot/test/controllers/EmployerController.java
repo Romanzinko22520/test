@@ -17,7 +17,6 @@ public class EmployerController {
 //    @GetMapping("/")
 //    public String getForm(){
 //        ModelAndView mav = new ModelAndView("test");
-////        mav.addObject("empl", new Employer());
 //        return "test";
 //    }
     @GetMapping("/getEmployer")
